@@ -4,5 +4,10 @@ lbssousa: Laércio Benedito Sivali de Sousa
 pritorquato:
 felipemoi: Felipe Moi Pestana
 shoiti: Sandro Shoiti Sato
+<<<<<<< HEAD
 pedropassos:
 mario: Mario Sergio Barbosa
+=======
+pedropassos: Pedro Roberto Moreira Passos
+mario:
+>>>>>>> 7c0b5c5ef7dfc6163238430f56dd2341e5abdca8
