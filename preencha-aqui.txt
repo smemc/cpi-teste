@@ -1,13 +1,21 @@
-Preencha seu nome completo no campo correspondente abaixo, por favor:
+reencha seu nome completo no campo correspondente abaixo, por favor:
 
 lbssousa: Laércio Benedito Sivali de Sousa
 pritorquato:
 felipemoi: Felipe Moi Pestana
 shoiti: Sandro Shoiti Sato
-<<<<<<< HEAD
-pedropassos:
 mario: Mario Sergio Barbosa
-=======
 pedropassos: Pedro Roberto Moreira Passos
-mario:
->>>>>>> 7c0b5c5ef7dfc6163238430f56dd2341e5abdca8
+
+instalando o git
+#apt-get install git-core 
+
+clonando o repositorio
+$git clone -o github https://shoiti@github.com/oiteam/cpi-teste.git
+
+configurando o git com nome e email
+$git config --global user.name "Sandro Shoiti Sato"
+$git config --global user.email "sandro.shoiti@gmail.com"
+
+mostra o log
+$git log
