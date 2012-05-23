@@ -4,5 +4,20 @@ lbssousa: Laércio Benedito Sivali de Sousa
 pritorquato: Priscila Torquato Pires da Rocha
 felipemoi: Felipe Moi Pestana
 shoiti: Sandro Shoiti Sato
-pedropassos:
+pedropassos: Pedro Roberto Moreira Passos
 mario:
+
+
+instalando o git
+#apt-get install git-core 
+
+clonando o repositorio
+$git clone -o github https://shoiti@github.com/oiteam/cpi-teste.git
+
+configurando o git com nome e email
+$git config --global user.name "Sandro Shoiti Sato"
+$git config --global user.email "sandro.shoiti@gmail.com"
+
+mostra o log
+$git log
+
