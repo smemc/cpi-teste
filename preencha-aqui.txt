@@ -21,3 +21,19 @@ $git config --global user.email "sandro.shoiti@gmail.com"
 mostra o log
 $git log
 
+exibe o estado dos arquivos
+$git status
+
+seleciona os arquivos
+$git add README.md preencha-aqui.txt
+
+prepara para fazer commit
+$git commit
+
+envia os arquivos para o servidor
+$git push -u github
+
+$git pull github
+
+$git fetch github
+
