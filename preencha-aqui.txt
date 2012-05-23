@@ -5,4 +5,4 @@ pritorquato:
 felipemoi:
 shoiti: Sandro Shoiti Sato
 pedropassos:
-mario:
+mario: Mario Sergio Barbosa
