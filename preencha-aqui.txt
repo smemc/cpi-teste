@@ -1,4 +1,4 @@
-reencha seu nome completo no campo correspondente abaixo, por favor:
+﻿reencha seu nome completo no campo correspondente abaixo, por favor:
 
 lbssousa: Laércio Benedito Sivali de Sousa
 pritorquato: Priscila Torquato Pires da Rocha
@@ -36,3 +36,4 @@ $git pull github
 
 $git fetch github
 
+Teste no Windows 
